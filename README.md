@@ -102,6 +102,16 @@ nnXNet_train Dataset660_vessel_anatomy_aneurysm_26classes_resize224_4661 3d_full
 
 ---
 
+## Dataset Availability
+
+**26-class segmentation labels:** [https://huggingface.co/datasets/spc819/rsna2025-aneurysm-26class-seg](https://huggingface.co/datasets/spc819/rsna2025-aneurysm-26class-seg)
+
+Per RSNA rules, the original DICOMs must be downloaded from Kaggle: [https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data)
+
+**Paper:** [https://arxiv.org/abs/2606.26706](https://arxiv.org/abs/2606.26706)
+
+---
+
 ## Model Availability
 
 **Stage 1 ROI Model:** [https://www.kaggle.com/models/pengchengshi/dataset180_2d_vessel_box_seg_stable](https://www.kaggle.com/models/pengchengshi/dataset180_2d_vessel_box_seg_stable)  
