@@ -102,11 +102,9 @@ nnXNet_train Dataset660_vessel_anatomy_aneurysm_26classes_resize224_4661 3d_full
 
 ---
 
-## Dataset Availability
+## Data Availability
 
-**26-class segmentation labels:** [https://huggingface.co/datasets/spc819/rsna2025-aneurysm-26class-seg](https://huggingface.co/datasets/spc819/rsna2025-aneurysm-26class-seg)
-
-Per RSNA rules, the original DICOMs must be downloaded from Kaggle: [https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data)
+The challenge dataset is available at [https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection/data). TopCoW ([https://doi.org/10.5281/zenodo.15692630](https://doi.org/10.5281/zenodo.15692630)) and TopBrain ([https://doi.org/10.5281/zenodo.16878417](https://doi.org/10.5281/zenodo.16878417)) annotations are available on Zenodo. The corrected 26-class vessel-anatomy and aneurysm segmentation labels used in this work are publicly released at [https://huggingface.co/datasets/spc819/rsna2025-aneurysm-26class-seg](https://huggingface.co/datasets/spc819/rsna2025-aneurysm-26class-seg). These corrected masks were produced by our team during the competition period for the competition ranking and have not been clinically reviewed; we share them with the research community for further study.
 
 **Paper:** [https://arxiv.org/abs/2606.26706](https://arxiv.org/abs/2606.26706)
 
@@ -151,7 +149,7 @@ Please cite our work if it is helpful for your research:
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+Codebase (the bravecowcow package and all source code in this repository) is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details. Model weights are released for research use only and are licensed under CC BY-NC 4.0.
 
 ---
 
