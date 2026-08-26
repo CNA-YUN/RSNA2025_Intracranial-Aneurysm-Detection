@@ -108,20 +108,6 @@ The challenge dataset is available at [https://www.kaggle.com/competitions/rsna-
 
 **Paper:** [https://arxiv.org/abs/2606.26706](https://arxiv.org/abs/2606.26706)
 
-Please cite our work if it is helpful for your research:
-
-```bibtex
-@misc{shi2026intracranialaneurysmclassificationsegmentation,
-      title={Intracranial Aneurysm Classification and Segmentation via Tri-Axial ROI and Multi-Task Learning},
-      author={Pengcheng Shi and Kaiyuan Yang and Houjing Huang and Jiawei Chen and Yan Lu and Jiaqi Liu and Murong Xu and Minghui Zhang and Bjoern Menze and Xinglin Zhang},
-      year={2026},
-      eprint={2606.26706},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2606.26706},
-}
-```
-
 ---
 
 ## Model Availability
@@ -141,6 +127,23 @@ For clinical and research use, we packaged the two-stage framework as a 3D Slice
 
 **Source code:** [https://github.com/murong-xu/SlicerBraveCowCow](https://github.com/murong-xu/SlicerBraveCowCow)  
 **Inference backend:** [https://github.com/huanghoujing/bravecowcow_inference_docker](https://github.com/huanghoujing/bravecowcow_inference_docker)
+
+---
+
+## Citation
+Please cite our work if it is helpful for your research:
+
+```bibtex
+@misc{shi2026intracranialaneurysmclassificationsegmentation,
+      title={Intracranial Aneurysm Classification and Segmentation via Tri-Axial ROI and Multi-Task Learning},
+      author={Pengcheng Shi and Kaiyuan Yang and Houjing Huang and Jiawei Chen and Yan Lu and Jiaqi Liu and Murong Xu and Minghui Zhang and Bjoern Menze and Xinglin Zhang},
+      year={2026},
+      eprint={2606.26706},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.26706},
+}
+```
 
 ---
 
