@@ -144,23 +144,6 @@ For clinical and research use, we packaged the two-stage framework as a 3D Slice
 
 ---
 
-## Citation
-Please cite our work if it is helpful for your research:
-
-```
-@misc{shi2026intracranialaneurysmclassificationsegmentation,
-      title={Intracranial Aneurysm Classification and Segmentation via Tri-Axial ROI and Multi-Task Learning}, 
-      author={Pengcheng Shi and Kaiyuan Yang and Houjing Huang and Jiawei Chen and Yan Lu and Jiaqi Liu and Murong Xu and Bjoern Menze and Xinglin Zhang},
-      year={2026},
-      eprint={2606.26706},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2606.26706}, 
-}
-```
-
----
-
 ## License
 
 Codebase (the bravecowcow package and all source code in this repository) is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details. Model weights are released for research use only and are licensed under CC BY-NC 4.0.
